@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -20,7 +21,7 @@ namespace Poker
 
             HttpListener listener = new HttpListener();
             listener.Prefixes.Add("http://localhost:8080/");
-            listener.Prefixes.Add("http://192.168.1.3:8081/");
+            //listener.Prefixes.Add("http://192.168.1.3:8081/");
             listener.Start();
             Console.WriteLine("Listening...");
 

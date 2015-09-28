@@ -8,3 +8,13 @@ c:\Users\GiackAloZ\Documents\Visual Studio 2013\Projects\Poker\Poker\bin\Debug\S
 c:\Users\GiackAloZ\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
 c:\Users\GiackAloZ\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.exe
 c:\Users\GiackAloZ\Documents\Visual Studio 2013\Projects\Poker\Poker\obj\Debug\Poker.pdb
+Z:\PokerLAN\Poker\bin\Debug\Poker.exe.config
+Z:\PokerLAN\Poker\obj\Debug\Poker.exe
+Z:\PokerLAN\Poker\obj\Debug\Poker.pdb
+Z:\PokerLAN\Poker\bin\Debug\Poker.exe
+Z:\PokerLAN\Poker\bin\Debug\Poker.pdb
+Z:\PokerLAN\Poker\bin\Debug\Newtonsoft.Json.dll
+Z:\PokerLAN\Poker\bin\Debug\System.Net.Http.Formatting.dll
+Z:\PokerLAN\Poker\bin\Debug\Newtonsoft.Json.xml
+Z:\PokerLAN\Poker\bin\Debug\System.Net.Http.Formatting.xml
+Z:\PokerLAN\Poker\obj\Debug\Poker.csprojResolveAssemblyReference.cache
